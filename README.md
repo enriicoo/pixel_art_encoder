@@ -27,7 +27,7 @@ Quick Start:
 1. Convert your PNG to SVG using png_to_svg.py
 2. Choose input and output path in use_encoder.py
 
-Adapt everything as to fulfill your needs!
+Adapt as to fulfill your needs!
 
-<img src="https://github.com/user-attachments/assets/2d4a501f-89bb-4ccc-a429-0f07622c14b6" width="400" height="400" alt="simulated_annealing_in_action">
+<img src="https://github.com/user-attachments/assets/50597dcc-49a2-415a-8a66-906e5ed0d2d5" width="400" height="400" alt="simulated_annealing_in_action">
 
