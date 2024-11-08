@@ -1,0 +1,36 @@
+svg_annealing_encoder/
+│
+├── core/
+│   ├── __init__.py
+│   ├── grid.py              # Grid representation and management
+│   ├── pattern.py           # Pattern class and operations
+│   └── types.py             # Type definitions and enums
+│
+├── optimization/
+│   ├── __init__.py
+│   ├── annealing.py         # Simulated annealing implementation
+│   ├── cluster.py           # Cluster-based optimization
+│   ├── cost_function.py     # Cost calculation
+│   ├── move_generator.py    # Pattern transformation moves
+│   └── temperature.py       # Temperature scheduling
+│
+├── output/
+│   ├── __init__.py
+│   ├── encoder.py           # Pattern encoding
+│   └── formatter.py         # Output formatting and visualization
+│
+├── preprocessing/
+│   ├── __init__.py
+│   ├── color_mapper.py      # Color indexing and mapping
+│   ├── component_finder.py  # Connected component analysis
+│   └── svg_parser.py        # SVG parsing and initial grid creation
+│
+├── resources/               # Resource files directory
+│
+├── results/                 # Output results directory
+│
+├── .gitignore              # Git ignore rules
+│
+├── structure.txt           # Project structure documentation
+│
+└── use_encoder.py          # Main entry point and usage example
